@@ -135,6 +135,8 @@ Installing Apache Ant - <http://ant.apache.org/manual/install.html>
 Codecademy - Learn the Command Line -
 <https://www.codecademy.com/courses/learn-the-command-line>
 
+CodeGym - Learn Java - <https://codegym.cc/>
+
 Codecademy - Learn Java - <https://www.codecademy.com/learn/learn-java>
 
 Got 15 minutes and want to learn Git?
